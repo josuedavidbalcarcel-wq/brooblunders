@@ -1,0 +1,1 @@
+Coloca aqui stockfish-nnue-16-single.js y su .wasm (ver README).
